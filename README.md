@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice777x&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/5lkhjpRoj2Q9HiyrVfV0hG?si=8d9f031211d14478)
